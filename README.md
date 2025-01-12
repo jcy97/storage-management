@@ -12,7 +12,7 @@ Next.js와 shadcn/ui를 활용한 모던 파일 관리 시스템
 
 ## 🛠 기술 스택
 
-- **Frontend**: Next.js 14, React, TypeScript
+- **Frontend**: Next.js 15, React, TypeScript
 - **UI Library**: shadcn/ui
 - **Styling**: Tailwind CSS
 - **File Management**: appWriter
